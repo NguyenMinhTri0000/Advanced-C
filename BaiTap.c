@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 char arr1[] = "Hello world";
-char arr2[] = "Hello world";
+char arr2[] = "Hello wol2d";
 
 
 int Equa(char mang1[], char mang2[])

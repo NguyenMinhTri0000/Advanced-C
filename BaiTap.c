@@ -31,7 +31,8 @@ int main(int argc, char const *argv[])
     }
     else  
     {
-    if(Equa(arr1, arr2) == 0)
+    if(Equa(arr1, arr2) == 0)       //khác nhau thì return về 0
+                                    //nhưng giống nhau thì return = sizeof(arr). Tại sao?
     {
         printf("Hai chuoi co noi dung khac nhau");
     
